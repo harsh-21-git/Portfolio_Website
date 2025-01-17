@@ -15,6 +15,26 @@ You can view the live demo of the website here: [Harpotfolio](https://haportfoli
 - **Simply Static Plugin**: Used to convert the WordPress website into a static site, allowing deployment on Netlify.
 - **Netlify Deployment**: Hosted the static version of the website using Netlify for fast and secure delivery.
 
+## Plugins Used
+
+- **Elementor**: [WordPress Elementor Plugin](https://wordpress.org/plugins/elementor/)  
+  A powerful page builder plugin used to design custom pages and layouts.
+
+- **Essential Addons for Elementor**: [Essential Addons for Elementor Plugin](https://wordpress.org/plugins/essential-addons-for-elementor/)  
+  Adds additional widgets and elements to enhance Elementor’s functionality.
+
+- **Simply Static**: [Simply Static Plugin](https://wordpress.org/plugins/simply-static/)  
+  Converts dynamic WordPress websites into static websites for easy deployment on platforms like Netlify.
+
+- **Yoast SEO**: [Yoast SEO Plugin](https://wordpress.org/plugins/wordpress-seo/)  
+  Optimizes the website for search engines, improving visibility and SEO performance.
+
+- **WPForms**: [WPForms Plugin](https://wordpress.org/plugins/wpforms-lite/)  
+  Allows the creation of contact forms to facilitate user interaction on the website.
+
+- **Smush Image Compression**: [Smush Plugin](https://wordpress.org/plugins/wp-smushit/)  
+  Compresses and optimizes images for faster load times and better performance.
+
 ## Steps to Create the Website
 
 1. **Set Up WordPress**: 

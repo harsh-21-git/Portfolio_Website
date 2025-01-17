@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/5c5ac879-1519-4ee0-bfd9-ba44a22e14c1)
 # Portfolio Website
 
 This is my personal portfolio website built using WordPress. The website is designed to showcase my work, skills, and projects. I've used Elementor, various Elementor Addons, and other plugins to create a fully responsive and dynamic portfolio. The site has been deployed on Netlify using the "Simply Static" plugin for static site generation.
